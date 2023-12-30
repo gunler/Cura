@@ -5,6 +5,7 @@
     "metadata":
     {
         "visible": true,
+        "platform": "voron_switchwire.stl",
         "quality_definition": "voron2_base"
     },
     "overrides":
